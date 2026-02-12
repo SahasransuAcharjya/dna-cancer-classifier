@@ -1,0 +1,1 @@
+End-to-end Transformer pipeline achieving 89.7% accuracy classifying 5 cancer types from 44 gene expressions. Saliency analysis identified key biomarkers.
