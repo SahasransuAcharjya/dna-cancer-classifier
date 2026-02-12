@@ -1,0 +1,25 @@
+# Big model files (load separately or use volumes)
+models/*.pth
+models/*.pkl
+
+# Raw data (don't bundle training data)
+data/*.csv
+
+# Python cache/temp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab temp files
+.DS_Store
+*.ipynb_checkpoints
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# Environment
+.env
